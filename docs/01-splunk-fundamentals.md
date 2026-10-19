@@ -29,3 +29,5 @@ Splunk search and reporting is a default interface used for searching and analyz
 - Time Picker: Multiple options to select the timeframe of your search
 - Search History: Saves Splunk's search queries that was previously used
 - Data Summary: Provides a summary of the hosts, sources, and sourcetypes
+
+<img width="1901" height="716" alt="1" src="https://github.com/user-attachments/assets/87c3ae73-c896-444d-8692-59c09f856ba1" />
