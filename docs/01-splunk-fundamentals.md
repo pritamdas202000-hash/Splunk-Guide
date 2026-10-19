@@ -20,3 +20,8 @@ Every event indexed in Splunk is tagged with:
 - `host`: The machine name or IP that generated the logs.
 
 ---
+
+---
+
+## Splunk search and reporting
+Splunk search and reporting is a default interface used for searching and analyzing data on the Splunk home page. It has various functionalities which asssist analysts in improving search experience. Key functionalities are described below:
