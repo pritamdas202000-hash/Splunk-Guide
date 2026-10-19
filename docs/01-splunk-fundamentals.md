@@ -31,3 +31,17 @@ Splunk search and reporting is a default interface used for searching and analyz
 - Data Summary: Provides a summary of the hosts, sources, and sourcetypes
 
 <img width="1901" height="716" alt="1" src="https://github.com/user-attachments/assets/87c3ae73-c896-444d-8692-59c09f856ba1" />
+
+---
+
+--- 
+
+## First search and Field sidebar
+In splunk index is the database or container for organizing the data. So here our index which stores all the data is 'windowslogs'. And Field sidebar is present in the left panel of the splunk search. The sidebar provides various sections, which are described below: - Selected Fields: The default selected fields. We can select all other fields by clicking on them
+- Interesting Fields: Extract all the interesting fields (e.g., Application, AccountName, and many more)
+- Numeric Fields (#): This symbol represents fields that contain numerical values
+- Alpha-numeric Fields (α): The alpha symbol represents fields that contain strings
+- Count: Counts the number of events containing the listed field
+You can explore more to extract more fields
+
+<img width="1900" height="880" alt="2" src="https://github.com/user-attachments/assets/06c95c79-18b9-499d-b6b5-171081fb0d59" />
