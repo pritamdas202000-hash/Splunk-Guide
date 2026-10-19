@@ -6,7 +6,7 @@ Splunk is a SIEM platform primarily used for searching, monitoring, and analyzin
 ---
 
 ## Splunk Architecture
-- **Forwarder:** Collects and forwards data or logs from remote systems which are working within the organizations network. Forwarder are of two types: Universal Forwarder (lightweight agent) and Heavy forwarder (can parse data before forwarding).
+- **Forwarder:** Collects and forwards data or logs from remote systems which are working within the organizations network. Forwarders are of two types: Universal Forwarder (lightweight agent) and Heavy forwarder (can parse data before forwarding).
 - **Indexer:** Indexer receives forwarded logs, parses and process them, convert into standard format so that analyst can analyse it and troubleshoot the problem.
 - **Search Head:** Search Head is the UI where analyst put the queries to filter and visualise the log data.
 
@@ -25,7 +25,7 @@ Every event indexed in Splunk is tagged with:
 
 ## Splunk search and reporting
 Splunk search and reporting is a default interface used for searching and analyzing data on the Splunk home page. It has various functionalities which assist analysts in improving search experience. Key functionalities are described below:
-- Search Head: Where analysts put the queies to filter and aggregate log data
+- Search Head: Where analysts put the queries to filter and aggregate log data
 - Time Picker: Multiple options to select the timeframe of your search
 - Search History: Saves Splunk's search queries that were previously used
 - Data Summary: Provides a summary of the hosts, sources, and sourcetypes
