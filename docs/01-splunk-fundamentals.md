@@ -25,7 +25,7 @@ Every event indexed in Splunk is tagged with:
 
 ## Splunk search and reporting
 Splunk search and reporting is a default interface used for searching and analyzing data on the Splunk home page. It has various functionalities which asssist analysts in improving search experience. Key functionalities are described below:
-- 'Search Head': Where analysts put the queies to filter and aggregate log data
-- 'Time Picker': Multiple options to select the timeframe of your search
-- 'Search History': Saves Splunk's search queries that was previously used
-- 'Data Summary': Provides a summary of the hosts, sources, and sourcetypes
+- Search Head: Where analysts put the queies to filter and aggregate log data
+- Time Picker: Multiple options to select the timeframe of your search
+- Search History: Saves Splunk's search queries that was previously used
+- Data Summary: Provides a summary of the hosts, sources, and sourcetypes
